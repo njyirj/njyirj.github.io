@@ -1,1 +1,1 @@
-# njyirj.github.io
+# [njyirj.github.io](https://njyrj.eu.org)
