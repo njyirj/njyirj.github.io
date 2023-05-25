@@ -1,1 +1,0 @@
-# https://njyrj.eu.org
