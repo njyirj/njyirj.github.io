@@ -111,7 +111,7 @@
                     "z-index": "9999"
                 }
             }, [i("u-modal", {
-                attrs: {show: e.pswShow, confirmText: "关闭", title: "内容过于** 获取识别码请关注\n公众号【双侠网络】回复【识别码】"},
+                attrs: {show: e.pswShow, confirmText: "关闭", title: "内容过于** 获取识别码请添加\nQ群【738079384】详见【群公告】"},
                 on: {
                     confirm: function (t) {
                         arguments[0] = t = e.$handleEvent(t), e.pswShow = !1
@@ -1208,7 +1208,7 @@
                                 e.confirm && t.setLockVip(!0)
                             }
                         })) : (uni.hideLoading(), uni.showToast({
-                            title: "验证失败！请关注【双侠网络】回复【识别码】获取",
+                            title: "验证失败！请按要求获取！",
                             icon: "none"
                         }))
                     }), 1e3)
